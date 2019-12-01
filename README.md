@@ -8,6 +8,6 @@ Like React, but more like JavaScript.
 
 `async`-`await` instead of suspense etc.
 
-## To-do
+## To-Do
 
 ### Build a prototype 
