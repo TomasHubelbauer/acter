@@ -8,6 +8,12 @@ Like React, but more like JavaScript.
 
 `async`-`await` instead of suspense etc.
 
+## Status
+
+Holy shit! Someone actually implemented this for me:
+
+https://github.com/bikeshaving/crank
+
 ## Examples
 
 Stateless:
