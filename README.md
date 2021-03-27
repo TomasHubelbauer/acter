@@ -1,6 +1,11 @@
 # Acter
 
-[**LIVE**](https://tomashubelbauer.github.io/acter)
+**Note:** This repository only captures an idea I've had. I have not implemented
+it exactly, but I have implemented a spiritual successor to the ideas here in
+https://github.com/tomashubelbauer/paper. It doesn't use JSX/TSX, but it does do
+the rest the same way.
+
+---
 
 Like React, but more like JavaScript.
 
