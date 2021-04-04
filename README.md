@@ -98,11 +98,3 @@ export default function* DiceGame() {
   } while (awit handleButtonClick);
 }
 ```
-
-## To-Do
-
-### Build a prototype 
-
-### Consider using a Babel plugin for this
-
-Would rewrite this to Hook based components.
