@@ -98,3 +98,11 @@ export default function* DiceGame() {
   } while (awit handleButtonClick);
 }
 ```
+
+## To-Do
+
+### Demonstrate the ideas captured here in Paper test cases / demos and retire
+
+The ideas captured here should by and large be implemented in Paper. If not, I
+will adjust Paper to be able to express them. After I've proven this, there is
+no reason to keep this repository around, so I'll delete it.
